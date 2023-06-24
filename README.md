@@ -25,3 +25,7 @@ Subscription Management
 
 
 <img width="943" alt="newsLetterCover" src="https://github.com/sakshisingh301/DailyNewsApp/assets/65009101/1f7b21a2-bcdc-4405-b426-3ee774c8f6d5">
+
+**Tools:**
+
+ReactJs, Redux ,HTML ,CSS ,Javascript ,Axios
