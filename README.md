@@ -21,10 +21,17 @@ Authentication and authorization
 
 Subscription Management
 
+**Screen-1**
 
+<p align="left">
+  <img src="https://github.com/sakshisingh301/DailyNewsApp/assets/65009101/1f7b21a2-bcdc-4405-b426-3ee774c8f6d5" alt="Image 1" width="400px">
+</p>
 
+**Screen-2**
+<p align="left" style="margin-top: 20px;">
+  <img src="https://github.com/sakshisingh301/DailyNewsApp/assets/65009101/a9a2d018-ca49-4a9f-8359-65b740cadec8" alt="Image 2" width="400px">
+</p>
 
-<img width="943" alt="newsLetterCover" src="https://github.com/sakshisingh301/DailyNewsApp/assets/65009101/1f7b21a2-bcdc-4405-b426-3ee774c8f6d5">
 
 **Tools:**
 
